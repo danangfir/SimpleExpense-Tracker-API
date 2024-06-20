@@ -4,6 +4,11 @@ Expense Tracker API
 </h1>
 </div>
 
+<div style="text-align: center;">
+
+![Expense Tracker Api](./image/gambar.png)
+</div>
+
 ## Deskripsi
 
 Expense Tracker API adalah sebuah API yang dibangun menggunakan NestJS untuk melacak pengeluaran. API ini menyediakan fitur-fitur seperti mendaftar sebagai pengguna baru, otentikasi dengan JWT, menambah, memperbarui, menghapus, dan melihat pengeluaran dengan berbagai filter.
